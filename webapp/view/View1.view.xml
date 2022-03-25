@@ -8,6 +8,7 @@
         <App id="app">
             <pages>
                 <Page id="page" id="rama2" title="cambio3">
+                <Page id="page"  title="cambio1 nuevo">
                     <content />
                 </Page>
             </pages>
